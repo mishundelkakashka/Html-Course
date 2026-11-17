@@ -1,0 +1,85 @@
+body{
+    background: linear-gradient(rgb(0, 238, 255), rgb(0, 255, 0));
+    color:antiquewhite;
+}
+h1{
+    text-align: center;
+    color: rgb(255, 247, 3); 
+}
+
+ul {
+    padding: 15px;
+    list-style: none;
+    float: right;
+}
+ul li {
+    padding: 5px;
+    margin: 5px;
+    border-radius: 6px;
+    background: #01a74e;
+}
+
+li {
+    float: left;
+    width: auto;
+}
+
+a {
+    color: aliceblue;
+    font: xx-large 14px sans-serif;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    box-shadow: inset 10px;
+}
+
+.conteiner{
+    width: 100vw;
+    height: 20px;
+    margin: 5px;
+}
+
+#header{ 
+    background-color: green;
+    height: 13vh;
+}
+
+#side-bar{
+    background: linear-gradient(rgb(0, 174, 255), rgb(0, 175, 0));
+    width: 30vw;
+    height: 70vh;
+}
+
+#content{
+    background: linear-gradient(rgb(0, 174, 255), rgb(0, 175, 0));
+    width: 66vw;
+    height: 70vh;
+    float: right;
+    margin: 0px;
+    border-radius: 300px;
+}
+
+#footer{
+    background: linear-gradient(yellow, rgb(255, 72, 0));
+    height: 10vh;
+}
+
+#logo-img{
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+}
+body{
+            background-color: rgb(16, 16, 17);
+            color:antiquewhite;
+        }
+        h1{
+           color: rgb(255, 0, 204); 
+        }
+        button{
+            background: linear-gradient(rgb(68, 242, 0), rgb(0, 98, 23));
+            width: 200px;
+            height: 70px;
+            border-radius: 8px;
+        }
+        
